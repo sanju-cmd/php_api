@@ -1,9 +1,9 @@
 <?php
 
     $ServerName="localhost";
-    $UserName="u196314886_ZeroPriceStore";
-    $Password="ZeroPriceStore007";
-    $DBName="u196314886_ZeroPriceStore";
+    $UserName="user_name";
+    $Password="password";
+    $DBName="database_name";
     
     $conn=new mysqli($ServerName,$UserName,$Password,$DBName);
     //Check Connection
